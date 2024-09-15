@@ -1,0 +1,4 @@
+{"timestamp": 170027, "message": "Update user with id 2 request", "method": "PUT", "type": "request", "url": "/api/users/2"}
+{"timestamp": 170042, "message": "User with id 2 updated", "method": "PUT", "type": "response", "url": "/api/users/2"}
+{"timestamp": 170054, "message": "Users list request", "method": "GET", "type": "request", "url": "/api/users"}
+{"timestamp": 170060, "message": "Users list response", "method": "GET", "type": "response", "url": "/api/users"}

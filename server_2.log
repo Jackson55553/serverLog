@@ -1,0 +1,6 @@
+{"timestamp": 170005, "message": "Index page request", "method": "GET", "type": "request", "url": "/"}
+{"timestamp": 170010, "message": "Users list request", "method": "GET", "type": "request", "url": "/api/users"}
+{"timestamp": 170012, "message": "Create user request", "method": "POST", "type": "request", "url": "/api/users"}
+{"timestamp": 170015, "message": "Users list response", "method": "GET", "type": "response", "url": "/api/users"}
+{"timestamp": 170018, "message": "User created", "method": "POST", "type": "response", "url": "/api/users"}
+{"timestamp": 170022, "message": "Index page response", "method": "GET", "type": "response", "url": "/"}

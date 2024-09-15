@@ -1,0 +1,4 @@
+{"timestamp": 170046, "message": "Users list request", "method": "GET", "type": "request", "url": "/api/users"}
+{"timestamp": 170047, "message": "Delete user with id 2 request", "method": "DELETE", "type": "request", "url": "/api/users/2"}
+{"timestamp": 170051, "message": "Users list response", "method": "GET", "type": "response", "url": "/api/users"}
+{"timestamp": 170053, "message": "User with id 2 deleted", "method": "DELETE", "type": "response", "url": "/api/users/2"}

@@ -1,0 +1,16 @@
+{"timestamp": 170005, "message": "Index page request", "method": "GET", "type": "request", "url": "/"}
+{"timestamp": 170010, "message": "Users list request", "method": "GET", "type": "request", "url": "/api/users"}
+{"timestamp": 170012, "message": "Create user request", "method": "POST", "type": "request", "url": "/api/users"}
+{"timestamp": 170015, "message": "Users list response", "method": "GET", "type": "response", "url": "/api/users"}
+{"timestamp": 170018, "message": "User created", "method": "POST", "type": "response", "url": "/api/users"}
+{"timestamp": 170022, "message": "Index page response", "method": "GET", "type": "response", "url": "/"}
+{"timestamp": 170027, "message": "Update user with id 2 request", "method": "PUT", "type": "request", "url": "/api/users/2"}
+{"timestamp": 170036, "message": "Update user with id 3 request", "method": "PUT", "type": "request", "url": "/api/users/3"}
+{"timestamp": 170038, "message": "User with id 3 updated", "method": "PUT", "type": "response", "url": "/api/users/3"}
+{"timestamp": 170042, "message": "User with id 2 updated", "method": "PUT", "type": "response", "url": "/api/users/2"}
+{"timestamp": 170046, "message": "Users list request", "method": "GET", "type": "request", "url": "/api/users"}
+{"timestamp": 170047, "message": "Delete user with id 2 request", "method": "DELETE", "type": "request", "url": "/api/users/2"}
+{"timestamp": 170051, "message": "Users list response", "method": "GET", "type": "response", "url": "/api/users"}
+{"timestamp": 170053, "message": "User with id 2 deleted", "method": "DELETE", "type": "response", "url": "/api/users/2"}
+{"timestamp": 170054, "message": "Users list request", "method": "GET", "type": "request", "url": "/api/users"}
+{"timestamp": 170060, "message": "Users list response", "method": "GET", "type": "response", "url": "/api/users"}
